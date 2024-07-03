@@ -1,4 +1,6 @@
-# 👋 Hi, I’m Yuejiao 🌱 A Front-end Developer.
+## 👋 Hi, I’m Yuejiao 🌱 A Front-end Developer.
+<p>I'm Yuejiao Shi, Front-end developer from <b>China</b>, currently based in <b>Copenhagen, Denmark</b>. </p>
+
 ### Contact Me
 
 <p><a href="https://github.com/YuejiaoShi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
@@ -21,3 +23,6 @@
 [<img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" alt="nextjs" width="40" height="40">](https://nextjs.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40">](https://getbootstrap.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40">](https://www.npmjs.com/)
+
+<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuejiaoShi&layout=compact&theme=buefy&hide_border=true" /></a>
+
