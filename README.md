@@ -3,10 +3,20 @@
 
 ### Contact Me
 
-<p><a href="https://github.com/YuejiaoShi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> 
-  <a href="https://www.linkedin.com/in/yuejiao-shi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
-  <a href="https://medium.com/@th.guibert" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Logo" height="28">
+<p><a href="https://github.com/YuejiaoShi" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/YuejiaoShi-%2312100E.svg?&logo=Github&logoColor=white" alt="Github" style="height: 25px;"/></a> 
+  
+  
+  <a href="https://www.linkedin.com/in/yuejiao-shi/" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Yuejiao Shi-%230077B5.svg?&logo=linkedin&logoColor=white" alt="Linkedin" style="height: 25px;"/></a> 
+
+  <a href="mailto:shiyuejiaosyj@gmail.com" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/-shiyuejiaosyj@gmail.com-c14438?logo=Gmail&logoColor=white" alt="Gmail Badge" style="height: 25px;">
+  </a>
 </p>
+
+
+
     
 ### Languages and Tools:</h3>
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40">](https://www.w3.org/html/)
