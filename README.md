@@ -19,6 +19,3 @@
 [<img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" alt="nextjs" width="40" height="40">](https://nextjs.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40">](https://getbootstrap.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40">](https://www.npmjs.com/)
-
-
-<img src="https://github-readme-stats.vercel.app/api?username=YuejiaoShi&show_icons=true&locale=en"/>
