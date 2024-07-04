@@ -32,3 +32,6 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40">](https://www.npmjs.com/)
 
 
+📊 **This Week I Spent My Time On:**
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
