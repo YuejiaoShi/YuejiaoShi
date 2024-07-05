@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m Yuejiao 🌱 A Front-end Developer.
-<p>I'm Yuejiao Shi, Front-end developer from <b>China</b>, currently based in <b>Copenhagen, Denmark</b>. </p>
+<p>I'm Yuejiao Shi, Front-end developer currently based in <b>Copenhagen, Denmark</b>. </p>
 
 ### Contact Me
  <p> <a href="https://github.com/YuejiaoShi" style="text-decoration: none;">
