@@ -1,23 +1,25 @@
-## 👋 Hi, I’m Yuejiao 🌱 A Front-end Developer.
+# 👋 Hi, I’m Yuejiao 🌱 A Front-end Developer.
 <p>I'm Yuejiao Shi, Front-end developer currently based in <b>Copenhagen, Denmark</b>. </p>
 
-### Contact Me
- <p> <a href="https://github.com/YuejiaoShi" style="text-decoration: none;">
+
+## Contact Me
+
+<div>
+ <a href="https://github.com/YuejiaoShi" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/YuejiaoShi-%2312100E.svg?&logo=Github&logoColor=white" alt="Github" style="height: 25px;"/></a> 
   
   <a href="https://www.linkedin.com/in/yuejiao-shi/" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Yuejiao Shi-%230077B5.svg?&logo=linkedin&logoColor=white" alt="Linkedin" style="height: 25px;"/></a> 
+  <img src="https://img.shields.io/badge/Yuejiao Shi-%230077B5.svg?&logo=linkedin&logoColor=white" alt="Linkedin" style="height: 25px;"/></a><img width="200" alt="meet_link" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif"/>
 
   <a href="mailto:shiyuejiaosyj@gmail.com" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/-shiyuejiaosyj@gmail.com-c14438?logo=Gmail&logoColor=white" alt="Gmail Badge" style="height: 25px;"></a>
   
   <a href="https://www.facebook.com/yuejiao.shi.YJ.S/" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Yuejiao Shi-%231877F2.svg?&logo=facebook&logoColor=white" alt="Facebook" style="height: 25px;"/></a>
-</p>
+</div>
+ 
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuejiaoShi&layout=compact&theme=catppuccin_mocha&hide_border=true" /></a><img width="300" alt="meet_link" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif"/>
-
-### Languages and Tools:</h3>
+## Languages and Tools:</h3>
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40">]([https://www.w3.org/html/](https://developer.mozilla.org/en-US/docs/Web/HTML))
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40">]([https://www.w3schools.com/css/](https://developer.mozilla.org/en-US/docs/Web/CSS))
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -32,3 +34,5 @@
 [<img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" alt="nextjs" width="40" height="40">](https://nextjs.org/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40">](https://getbootstrap.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40">](https://www.npmjs.com/)
+
+<img src="https://github-readme-stats.vercel.app/api?username=YuejiaoShi&theme=catppuccin_mocha&show_icons=true&locale=en" height="175" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuejiaoShi&layout=compact&theme=catppuccin_mocha&hide_border=true" height="175" />
