@@ -35,4 +35,6 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40">](https://getbootstrap.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40">](https://www.npmjs.com/)
 
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+
 <img src="https://github-readme-stats.vercel.app/api?username=YuejiaoShi&theme=catppuccin_mocha&show_icons=true&locale=en" height="175" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuejiaoShi&layout=compact&theme=catppuccin_mocha&hide_border=true" height="175" />
