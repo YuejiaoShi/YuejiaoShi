@@ -17,9 +17,9 @@
   <a href="https://www.facebook.com/yuejiao.shi.YJ.S/" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Yuejiao Shi-%231877F2.svg?&logo=facebook&logoColor=white" alt="Facebook" style="height: 25px;"/></a>
 </div>
- 
 
-## Languages and Tools:</h3>
+
+##  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="35"> <b>Languages and Tools:</b>
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40">]([https://www.w3.org/html/](https://developer.mozilla.org/en-US/docs/Web/HTML))
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40">]([https://www.w3schools.com/css/](https://developer.mozilla.org/en-US/docs/Web/CSS))
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -35,6 +35,6 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40">](https://getbootstrap.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40">](https://www.npmjs.com/)
 
-## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats </b>
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats: </b>
 
 <img src="https://github-readme-stats.vercel.app/api?username=YuejiaoShi&theme=catppuccin_mocha&show_icons=true&locale=en" height="175" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuejiaoShi&layout=compact&theme=catppuccin_mocha&hide_border=true" height="175" />
