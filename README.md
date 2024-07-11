@@ -1,6 +1,8 @@
-# 👋 Hi, I’m Yuejiao 🌱 A Front-end Developer.
-<p>I'm Yuejiao Shi, Front-end developer currently based in <b>Copenhagen, Denmark</b>. </p>
+<h1 align="center"><b>Hi, I'm Yuejiao </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
+
+<p>I'm Yuejiao Shi, junior full-stack web developer currently based in <b>Copenhagen, Denmark</b>. </p>
+<p>Trainee of Full-Stack Web Developer at <b><a href="https://github.com/HackYourFuture-CPH/curriculum/?tab=readme-ov-file">HackYourFuture Denmark.</a></b> </p>
 
 ## Contact Me
 
