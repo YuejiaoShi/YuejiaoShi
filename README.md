@@ -2,7 +2,7 @@
 
 <p>I'm a full-stack web developer currently based in <b>Copenhagen, Denmark</b>. </p>
 <p>Trainee of Full-Stack Web Developer at <b><a href="https://github.com/HackYourFuture-CPH/curriculum/?tab=readme-ov-file">HackYourFuture Denmark.</a></b> </p>
-<a href="#"><img align="right" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif" width="170 " height="170"/></a>
+<a href="#"><img align="right" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif" width="160 " height="160"/></a>
 <br>
 
 ### Contact Me
