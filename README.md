@@ -5,7 +5,7 @@
 <a href="#"><img align="right" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif" width="160 " height="170"/></a>
 <br>
 
-### Contact Me
+### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/324065af-8ea3-453a-83a3-66ccba5797fb" width="35"> <b>Contact Me:</b>
 
 <div>
  <a href="https://github.com/YuejiaoShi" style="text-decoration: none;">
