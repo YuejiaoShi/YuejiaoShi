@@ -13,12 +13,12 @@
   
   <a href="https://www.linkedin.com/in/yuejiao-shi/" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Yuejiao Shi-%230077B5.svg?&logo=linkedin&logoColor=white" alt="Linkedin" style="height: 25px;"/></a>
-
-  <a href="mailto:shiyuejiaosyj@gmail.com" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-shiyuejiaosyj@gmail.com-c14438?logo=Gmail&logoColor=white" alt="Gmail Badge" style="height: 25px;"></a>
   
   <a href="https://www.facebook.com/yuejiao.shi.YJ.S/" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/Yuejiao Shi-%231877F2.svg?&logo=facebook&logoColor=white" alt="Facebook" style="height: 25px;"/></a>
+
+   <a href="mailto:shiyuejiaosyj@gmail.com" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/-shiyuejiaosyj@gmail.com-c14438?logo=Gmail&logoColor=white" alt="Gmail Badge" style="height: 25px;"></a>
 </div>
 <br>
 
