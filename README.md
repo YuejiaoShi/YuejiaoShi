@@ -2,10 +2,10 @@
 
 <p>I'm a full-stack web developer currently based in <b>Copenhagen, Denmark</b>. </p>
 <p>Trainee of Full-Stack Web Developer at <b><a href="https://github.com/HackYourFuture-CPH/curriculum/?tab=readme-ov-file">HackYourFuture Denmark.</a></b> </p>
-<a href="#"><img align="right" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif" width="160 " height="170"/></a>
+<a href="#"><img align="right" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif" width="160 " height="170"/></a>   
+
 
 ### <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/324065af-8ea3-453a-83a3-66ccba5797fb" width="35"> <b>Contact Me:</b>
-
 <div>
  <a href="https://github.com/YuejiaoShi" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/YuejiaoShi-%2312100E.svg?&logo=Github&logoColor=white" alt="Github" style="height: 25px;"/></a> 
