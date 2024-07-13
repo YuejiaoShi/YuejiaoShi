@@ -19,7 +19,6 @@
    <a href="mailto:shiyuejiaosyj@gmail.com" style="text-decoration: none;">
   <img src="https://img.shields.io/badge/-shiyuejiaosyj@gmail.com-c14438?logo=Gmail&logoColor=white" alt="Gmail Badge" style="height: 25px;"></a>
 </div>
-<br>
 
 ##  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="35"> <b>Languages and Tools:</b>
 
@@ -44,8 +43,7 @@
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40">](https://www.mongodb.com/)
 [<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40">](https://git-scm.com/)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40">](https://www.npmjs.com/)
-<br>
+
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats: </b>
-
 <img src="https://github-readme-stats.vercel.app/api?username=YuejiaoShi&theme=catppuccin_mocha&show_icons=true&locale=en" height="175" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuejiaoShi&layout=compact&theme=catppuccin_mocha&hide_border=true" height="175" />
