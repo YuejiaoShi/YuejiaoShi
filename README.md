@@ -33,9 +33,10 @@
 
 #### Third-Party Libraries/Frameworks
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40">](https://reactjs.org/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original.svg" alt="react-router" width="40" height="40">](https://reactrouter.com/)
-[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40">](https://expressjs.com)
 [<img src="https://assets.vercel.com/image/upload/v1662130559/nextjs/Icon_light_background.png" alt="nextjs" width="40" height="40">](https://nextjs.org/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/reactrouter/reactrouter-original.svg" alt="react-router" width="40" height="40">](https://reactrouter.com/)
+[<img src="https://vitejs.dev/logo.svg" alt="vite" width="40" height="40">](https://vitejs.dev/)
+[<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40">](https://expressjs.com)
 [<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40">](https://getbootstrap.com/)
 
 #### Databases and Tools
