@@ -37,6 +37,7 @@
 [<img alt="React Router" src="https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" height="25">](https://reactrouter.com/)
 [<img alt="React Leaflet" src="https://img.shields.io/badge/-React_Leaflet-4D8B31?style=flat-square&logo=leaflet&logoColor=white" height="25">](https://react-leaflet.js.org/)
 [<img alt="Express" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" height="25">](https://expressjs.com)
+[<img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" height="25">](https://tailwindcss.com/)
 [<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" height="25">](https://getbootstrap.com/)
 
 ### Databases and Tools
