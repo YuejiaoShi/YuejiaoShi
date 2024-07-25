@@ -33,6 +33,7 @@
 [<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" height="25">](https://reactjs.org/)
 [<img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" height="25">](https://vitejs.dev/)
 [<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" height="25">](https://nextjs.org/)
+[<img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25">](https://redux.js.org/)
 [<img alt="React Router" src="https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" height="25">](https://reactrouter.com/)
 [<img alt="React Leaflet" src="https://img.shields.io/badge/-React_Leaflet-4D8B31?style=flat-square&logo=leaflet&logoColor=white" height="25">](https://react-leaflet.js.org/)
 [<img alt="Express" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" height="25">](https://expressjs.com)
