@@ -48,7 +48,7 @@
 [<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25">](https://git-scm.com/)
 [<img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" height="25">](https://www.npmjs.com/)
 [<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" height="25">](https://firebase.google.com/)
-[<img alt="Knex.js" src="https://img.shields.io/badge/-Knex.js-333333?style=flat-square&logo=knex&logoColor=white" height="25">](https://knexjs.org/)
+[<img alt="Knex.js" src="https://img.shields.io/badge/-Knex.js-3D5B99?style=flat-square&logo=knex&logoColor=white" height="25">](https://knexjs.org/)
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats: </b>
