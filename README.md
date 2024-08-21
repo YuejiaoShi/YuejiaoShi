@@ -28,6 +28,7 @@
 [<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" height="25">](https://www.typescriptlang.org/)
 [<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white" height="25">](https://nodejs.org)
+[<img alt="REST APIs" src="https://img.shields.io/badge/-REST_APIs-008000?style=flat-square&logo=api&logoColor=white" height="25">](https://restfulapi.net/)
 
 ### Third-Party Libraries/Frameworks
 [<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" height="25">](https://reactjs.org/)
