@@ -53,3 +53,9 @@
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats: </b>
 <img src="https://github-readme-stats.vercel.app/api?username=YuejiaoShi&theme=catppuccin_mocha&show_icons=true&locale=en" height="175" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuejiaoShi&layout=compact&theme=catppuccin_mocha&hide_border=true" height="175" />
+
+## Highlighted Projects
+- [WorldWise](https://github.com/YuejiaoShi/WordWise) - A Travel-Tracking and City-Mapping app
+- [usePopcorn](https://github.com/YuejiaoShi/movie-app) -  A Movie Exploration and Management app
+- [Pizza Fast Shop](https://github.com/YuejiaoShi/project-3) - A Pizza Ordering Web app
+- [Acme](https://github.com/YuejiaoShi/nextjs-dashboard?tab=readme-ov-file) - A Financial Dashboard with Next.js
