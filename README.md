@@ -5,20 +5,11 @@
 <a href="#"><img align="right" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif" width="160 " height="170"/></a>   
 
 
-## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/324065af-8ea3-453a-83a3-66ccba5797fb" width="35"> <b>Contact Me:</b>
-<div>
- <a href="https://github.com/YuejiaoShi" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/YuejiaoShi-%2312100E.svg?&logo=Github&logoColor=white" alt="Github" style="height: 25px;"/></a> 
-  
-  <a href="https://www.linkedin.com/in/yuejiao-shi/" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Yuejiao Shi-%230077B5.svg?&logo=linkedin&logoColor=white" alt="Linkedin" style="height: 25px;"/></a>
-  
-  <a href="https://www.facebook.com/yuejiao.shi.YJ.S/" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Yuejiao Shi-%231877F2.svg?&logo=facebook&logoColor=white" alt="Facebook" style="height: 25px;"/></a>
-
-   <a href="mailto:shiyuejiaosyj@gmail.com" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/-shiyuejiaosyj@gmail.com-c14438?logo=Gmail&logoColor=white" alt="Gmail Badge" style="height: 25px;"></a>
-</div>
+## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="35"><b> Highlighted Projects </b>
+- [WorldWise](https://github.com/YuejiaoShi/WordWise) - A Travel-Tracking and City-Mapping app
+- [usePopcorn](https://github.com/YuejiaoShi/movie-app) -  A Movie Exploration and Management app
+- [Pizza Fast Shop](https://github.com/YuejiaoShi/project-3) - A Pizza Ordering Web app
+- [Acme](https://github.com/YuejiaoShi/nextjs-dashboard?tab=readme-ov-file) - A Financial Dashboard with Next.js
 
 ##  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="35"> <b>Languages and Tools:</b>
 
@@ -50,12 +41,20 @@
 [<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" height="25">](https://firebase.google.com/)
 [<img alt="Knex.js" src="https://img.shields.io/badge/-Knex.js-3D5B99?style=flat-square&logo=knex&logoColor=white" height="25">](https://knexjs.org/)
 
-
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats: </b>
 <img src="https://github-readme-stats.vercel.app/api?username=YuejiaoShi&theme=catppuccin_mocha&show_icons=true&locale=en" height="175" /><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YuejiaoShi&layout=compact&theme=catppuccin_mocha&hide_border=true" height="175" />
 
-## Highlighted Projects
-- [WorldWise](https://github.com/YuejiaoShi/WordWise) - A Travel-Tracking and City-Mapping app
-- [usePopcorn](https://github.com/YuejiaoShi/movie-app) -  A Movie Exploration and Management app
-- [Pizza Fast Shop](https://github.com/YuejiaoShi/project-3) - A Pizza Ordering Web app
-- [Acme](https://github.com/YuejiaoShi/nextjs-dashboard?tab=readme-ov-file) - A Financial Dashboard with Next.js
+## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/324065af-8ea3-453a-83a3-66ccba5797fb" width="35"> <b>Contact Me:</b>
+<div>
+ <a href="https://github.com/YuejiaoShi" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/YuejiaoShi-%2312100E.svg?&logo=Github&logoColor=white" alt="Github" style="height: 25px;"/></a> 
+  
+  <a href="https://www.linkedin.com/in/yuejiao-shi/" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Yuejiao Shi-%230077B5.svg?&logo=linkedin&logoColor=white" alt="Linkedin" style="height: 25px;"/></a>
+  
+  <a href="https://www.facebook.com/yuejiao.shi.YJ.S/" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/Yuejiao Shi-%231877F2.svg?&logo=facebook&logoColor=white" alt="Facebook" style="height: 25px;"/></a>
+
+   <a href="mailto:shiyuejiaosyj@gmail.com" style="text-decoration: none;">
+  <img src="https://img.shields.io/badge/-shiyuejiaosyj@gmail.com-c14438?logo=Gmail&logoColor=white" alt="Gmail Badge" style="height: 25px;"></a>
+</div>
