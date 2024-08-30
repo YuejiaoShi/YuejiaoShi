@@ -19,6 +19,7 @@
 [<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" height="25">](https://www.typescriptlang.org/)
 [<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white" height="25">](https://nodejs.org)
+[<img alt="RESTful API" src="https://img.shields.io/badge/-RESTful%20API-FF6F61?style=flat-square&logo=api&logoColor=white" height="25">](https://aws.amazon.com/what-is/restful-api/?nc1=h_ls)
 
 ### Third-Party Libraries/Frameworks
 [<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" height="25">](https://reactjs.org/)
@@ -35,6 +36,7 @@
 ### Databases and Tools
 [<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" height="25">](https://www.docker.com/)
 [<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="25">](https://www.mysql.com/)
+[<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" height="25">](https://www.postgresql.org/)
 [<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="25">](https://www.mongodb.com/)
 [<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25">](https://git-scm.com/)
 [<img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" height="25">](https://www.npmjs.com/)
