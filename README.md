@@ -41,6 +41,8 @@
 [<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="25">](https://www.mongodb.com/)
 [<img alt="Firebase" src="https://img.shields.io/badge/-Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" height="25">](https://firebase.google.com/)
 [<img alt="Knex.js" src="https://img.shields.io/badge/-Knex.js-3D5B99?style=flat-square&logo=knex&logoColor=white" height="25">](https://knexjs.org/)
+[<img alt="pgAdmin" src="https://img.shields.io/badge/-pgAdmin-36454F?style=flat-square&logo=pgadmin&logoColor=white" height="25">](https://www.pgadmin.org/)
+[<img alt="Appwrite" src="https://img.shields.io/badge/-Appwrite-F02E65?style=flat-square&logo=appwrite&logoColor=white" height="25">](https://appwrite.io/)
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats: </b>
