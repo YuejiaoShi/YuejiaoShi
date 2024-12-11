@@ -6,10 +6,10 @@
 
 
 ## <img src="https://user-images.githubusercontent.com/74038190/216122069-5b8169d7-1d8e-4a13-b245-a8e4176c99f8.png" width="35"><b> Highlighted Projects </b>
+- [WEflance](https://github.com/YuejiaoShi/WFlance) - Freelance Developer Project and Client Management Platform
 - [WorldWise](https://github.com/YuejiaoShi/WordWise) - A Travel-Tracking and City-Mapping app
-- [Aora](https://github.com/YuejiaoShi/Aora) - A Video Upload and Sharing Mobile App
 - [Meal Sharing](https://github.com/YuejiaoShi/meal-sharing) - A Meal Discovery and Reservation app 
-- [Pizza Fast Shop](https://github.com/YuejiaoShi/pizza-fast-shop) - A Pizza Ordering Web app
+- [Aora](https://github.com/YuejiaoShi/Aora) - A Video Upload and Sharing Mobile App
 
 ## <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/fa83eeb9-f4e2-4d85-93f0-688af11babf8" width="35"> <b>Languages and Tools:</b>
 
