@@ -18,6 +18,9 @@
 [<img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" height="25">](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="25">](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [<img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" height="25">](https://www.typescriptlang.org/)
+[<img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=coffee-script&logoColor=white" height="25">](https://www.java.com/)
+[<img alt="C" src="https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white" height="25">](https://www.w3schools.com/c/c_intro.php)
+[<img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" height="25">](https://www.python.org/)
 [<img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" height="25">](https://git-scm.com/)
 
 ### Frontend Libraries/Frameworks
@@ -30,12 +33,19 @@
 [<img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" height="25">](https://tailwindcss.com/)
 [<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" height="25">](https://getbootstrap.com/)
 
-### Fullstack & Backend & Databases
+### Fullstack & Backend  
 [<img alt="Next.js" src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white" height="25">](https://nextjs.org/)
 [<img alt="RESTful API" src="https://img.shields.io/badge/-RESTful%20API-FF6F61?style=flat-square&logo=api&logoColor=white" height="25">](https://aws.amazon.com/what-is/restful-api/?nc1=h_ls)
 [<img alt="Express" src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" height="25">](https://expressjs.com)
 [<img alt="Node.js" src="https://img.shields.io/badge/-Node.js-8CC84B?style=flat-square&logo=node.js&logoColor=white" height="25">](https://nodejs.org)
 [<img alt="Docker" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" height="25">](https://www.docker.com/)
+[<img alt="Expo" src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white" height="25">](https://expo.dev/)
+[<img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" height="25">](https://aws.amazon.com/)
+[<img alt="WebSocket" src="https://img.shields.io/badge/-WebSocket-35495E?style=flat-square&logo=websocket&logoColor=white" height="25">](https://developer.mozilla.org/en-US/docs/Web/API/WebSocket)
+[<img alt="Vercel" src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" height="25">](https://vercel.com/)
+[<img alt="Railway" src="https://img.shields.io/badge/-Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white" height="25">](https://railway.app/)
+
+### Databases & Tools  
 [<img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" height="25">](https://www.mysql.com/)
 [<img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" height="25">](https://www.postgresql.org/)
 [<img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" height="25">](https://www.mongodb.com/)
@@ -43,6 +53,9 @@
 [<img alt="Knex.js" src="https://img.shields.io/badge/-Knex.js-3D5B99?style=flat-square&logo=knex&logoColor=white" height="25">](https://knexjs.org/)
 [<img alt="pgAdmin" src="https://img.shields.io/badge/-pgAdmin-36454F?style=flat-square&logo=pgadmin&logoColor=white" height="25">](https://www.pgadmin.org/)
 [<img alt="Appwrite" src="https://img.shields.io/badge/-Appwrite-F02E65?style=flat-square&logo=appwrite&logoColor=white" height="25">](https://appwrite.io/)
+[<img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white" height="25">](https://sequelize.org/)
+[<img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" height="25">](https://jestjs.io/)
+[<img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" height="25">](https://www.cypress.io/)
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats: </b>
