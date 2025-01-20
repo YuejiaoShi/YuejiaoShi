@@ -30,6 +30,8 @@
 [<img alt="Vite" src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" height="25">](https://vitejs.dev/)
 [<img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="25">](https://redux.js.org/)
 [<img alt="React Router" src="https://img.shields.io/badge/-React_Router-CA4245?style=flat-square&logo=react-router&logoColor=white" height="25">](https://reactrouter.com/)
+[<img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" height="25">](https://jestjs.io/)
+[<img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" height="25">](https://www.cypress.io/)
 [<img alt="Tailwind CSS" src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" height="25">](https://tailwindcss.com/)
 [<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white" height="25">](https://getbootstrap.com/)
 
@@ -54,8 +56,6 @@
 [<img alt="pgAdmin" src="https://img.shields.io/badge/-pgAdmin-36454F?style=flat-square&logo=pgadmin&logoColor=white" height="25">](https://www.pgadmin.org/)
 [<img alt="Appwrite" src="https://img.shields.io/badge/-Appwrite-F02E65?style=flat-square&logo=appwrite&logoColor=white" height="25">](https://appwrite.io/)
 [<img alt="Sequelize" src="https://img.shields.io/badge/-Sequelize-52B0E7?style=flat-square&logo=sequelize&logoColor=white" height="25">](https://sequelize.org/)
-[<img alt="Jest" src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" height="25">](https://jestjs.io/)
-[<img alt="Cypress" src="https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white" height="25">](https://www.cypress.io/)
 
 
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> Github Stats: </b>
