@@ -1,7 +1,7 @@
 <h1 align="center"><b>Hi, I'm Yuejiao </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-<p>I'm a full-stack web developer currently based in <b>Copenhagen, Denmark</b>. </p>
-<p>Trainee of Full-Stack Web Developer at <b><a href="https://github.com/HackYourFuture-CPH/curriculum/?tab=readme-ov-file">HackYourFuture Denmark.</a></b> </p>
+<p>I'm a Full-Stack Developer currently based in <b>Copenhagen, Denmark</b>. </p>
+
 <a href="#"><img align="right" src="https://cdn.dribbble.com/userupload/8046474/file/original-1de7a34e8dfb6d1b9723e77458786c81.gif" width="160 " height="170"/></a>   
 
 
